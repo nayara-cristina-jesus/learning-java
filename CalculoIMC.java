@@ -28,7 +28,7 @@ class CalculoIMC {
       peso = (float)leitura.nextDouble();
 
       // Calculando IMC
-      float resultado = Math.round((peso/altura)/2);
+      float resultado = Math.round(peso/(altura*altura));
 
       // Saida de dados
       System.out.println("\nIMC: " + resultado);   
