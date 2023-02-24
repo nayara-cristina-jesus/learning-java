@@ -2,8 +2,8 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="60" height="50"/> 
  
-## IDE used 
+## Used IDE 
 - `Replit`
 
-## Code editor used 
+## Used Code editor
 - `Notepad++`
